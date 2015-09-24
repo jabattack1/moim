@@ -4,12 +4,12 @@ one:
   last_name: MyString
   first_name: MyString
   username: MyString
-  password: MyString
-  date: 2015-09-24 12:41:32
+  password_digest: MyString
+  date: 2015-09-24 13:18:26
 
 two:
   last_name: MyString
   first_name: MyString
   username: MyString
-  password: MyString
-  date: 2015-09-24 12:41:32
+  password_digest: MyString
+  date: 2015-09-24 13:18:26

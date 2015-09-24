@@ -3,11 +3,11 @@
 one:
   team: MyString
   username: MyString
-  password: MyString
+  password_digest: MyString
   admin: false
 
 two:
   team: MyString
   username: MyString
-  password: MyString
+  password_digest: MyString
   admin: false
