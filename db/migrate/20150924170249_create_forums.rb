@@ -1,6 +1,7 @@
 class CreateForums < ActiveRecord::Migration
   def change
     create_table :forums do |t|
+      t.references :user
       t.string :topic
       t.string :content
       t.string :jpg1
