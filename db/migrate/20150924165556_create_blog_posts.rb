@@ -7,8 +7,8 @@ class CreateBlogPosts < ActiveRecord::Migration
       t.string :date
       t.string :poster
       t.string :place
-      t.string :content-eng
-      t.string :content-kor
+      t.string :content_eng
+      t.string :content_kor
 
       t.timestamps null: false
     end
