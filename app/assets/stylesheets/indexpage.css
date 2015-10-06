@@ -1,6 +1,20 @@
+body {
+	font-family: "Franklin Gothic Book", "Franklin Gothic";
+}
+
 #welcomepage-background-image {
 	background-image: url(http://i.imgur.com/jNj9ahY.jpg);
-	width: 100%;
-	height: 588px;
+	max-width: 100%;
+	height: 720px;
+	width: auto\9; /* ie8 */
 	background-repeat: no-repeat;
+}
+
+#welcomepage-whoweare-summary{
+	text-align: center;
+}
+
+
+#welcomepage-featuredblogs-summary{
+	text-align: center;
 }
