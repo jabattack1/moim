@@ -15,3 +15,12 @@ body {
 #welcomepage-sponsors-summary {
 	text-align: center;
 }
+
+.footer {
+	color: #8C8989;
+	background-color: #2D2E2F;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-color: #2D2E2F;
+}
