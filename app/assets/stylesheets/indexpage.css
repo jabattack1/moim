@@ -10,11 +10,8 @@ body {
 	background-repeat: no-repeat;
 }
 
-#welcomepage-whoweare-summary{
-	text-align: center;
-}
-
-
-#welcomepage-featuredblogs-summary{
+#welcomepage-whoweare-summary,
+#welcomepage-featuredblogs-summary,
+#welcomepage-sponsors-summary {
 	text-align: center;
 }
